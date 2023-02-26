@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png",浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",浙江钱江频道
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
