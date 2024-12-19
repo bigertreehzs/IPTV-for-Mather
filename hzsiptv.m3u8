@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,#EXTM3U
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="Undefined",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Undefined",AlJazeera
@@ -18,22 +9,16 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Undefined",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="卫视高清" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 group-title="卫视高清" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 #EXTINF:-1 group-title="卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视高清" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 group-title="央视备用" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影
-http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 group-title="卫视备用" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
 http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 #EXTINF:-1 group-title="卫视备用" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 group-title="河南台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0712/20160712113858950.jpg",郑州1套新闻综合频道
-https://live3-new.zztv.tv/xwzh/playlist.m3u8?_upt=e73462c41725342700
 #EXTINF:-1 group-title="河南台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0916/006386f0b0e7b048648fce10983cac8f.jpg",郑州6套都市生活频道
 https://live2-new.zztv.tv/dsshpd/sd/live.m3u8?_upt=b647580f1725349072
 #EXTINF:-1 group-title="河南台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",新密新闻综合频道
@@ -82,18 +67,6 @@ http://live.dxhmt.cn:9081/tv/11322-1.m3u8
 http://live.dxhmt.cn:9081/tv/11328-1.m3u8
 #EXTINF:-1 group-title="河南台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",淅川新闻综合频道
 http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://111.61.236.247:9081/hls/68/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
@@ -156,8 +129,6 @@ http://111.61.236.247:9081/hls/35/index.m3u8
 http://111.61.236.247:9081/hls/67/index.m3u8
 #EXTINF:-1 group-title="数字电视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女性时尚频道
 http://111.61.236.247:9081/hls/59/index.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 ,AccuWeather Now (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 ,AFV (720p)
@@ -178,8 +149,6 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 ,Humor Mill (1080p) [Not 24/7]
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
-#EXTINF:-1 ,MovieSphere (1080p)
-https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #EXTINF:-1 ,Popstar! TV (1080p) [Not 24/7]
